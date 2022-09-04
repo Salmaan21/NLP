@@ -22,5 +22,5 @@
     I learned how to store object data into a pickle files
     and load them from a pickle file.
     
-    [Link to Homework1](https://github.com/Salmaan21/NLP/tree/main/Homework1)
+[Link to Homework1](https://github.com/Salmaan21/NLP/tree/main/Homework1)
     
