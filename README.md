@@ -25,4 +25,8 @@
     and load them from a pickle file.
     
 [Link to Homework1](https://github.com/Salmaan21/NLP/tree/main/Homework1)
+
+## Homework 2
+
+[Link to NLTK](https://github.com/Salmaan21/NLP/blob/main/NLTK.pdf)
     
