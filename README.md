@@ -45,8 +45,8 @@ there are 50 unique words in the game
 the game is over once you input ! or guess all 50 words
 or your score goes less than 0
 
-[Link to Guessing Game]()
+[Link to Guessing Game](https://github.com/Salmaan21/NLP/tree/main/Homework2)
 
 ## Word Net
 
-[Link to WordNet]()
+[Link to WordNet](https://github.com/Salmaan21/NLP/blob/main/WordNets.pdf)
