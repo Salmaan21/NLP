@@ -26,7 +26,27 @@
     
 [Link to Homework1](https://github.com/Salmaan21/NLP/tree/main/Homework1)
 
-## Homework 2
+## Intro to NLTK
 
 [Link to NLTK](https://github.com/Salmaan21/NLP/blob/main/NLTK.pdf)
     
+## Guessing Game
+
+Guessing game is based off of hangman
+To run Guessing game download Guessing game files
+and run python3 Word.py anat19.txt to play the guessing 
+game.
+
+How to play:
+Start off at 5 points
+Everytime you have a guess right of a letter in the word
+1 point is added if you guess wrong 1 point is deducted
+there are 50 unique words in the game
+the game is over once you input ! or guess all 50 words
+or your score goes less than 0
+
+[Link to Guessing Game]()
+
+## Word Net
+
+[Link to WordNet]()
